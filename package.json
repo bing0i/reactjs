@@ -1,0 +1,17 @@
+{
+  "name": "reactjs",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.37.1",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/uil": "^1.1.3"
+  }
+}
